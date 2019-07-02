@@ -1,0 +1,104 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td class=xl24 width=64 >General Ledger</td></tr><tr><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >Account </td><td class=xl24 width=64 >Debit </td><td class=xl24 width=64 >Credit </td><td class=xl24 width=64 >Net Movement </td></tr><tr><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >Expected</td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >From 01/01/2013 To 05/11/2013</td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >Accounts Receivables</td><td class=xl24 width=64 >7897370</td><td class=xl24 width=64 >791259.5</td><td class=xl24 width=64 ></td></tr><tr><td class=xl24 width=64 >Cash On Hand</td><td class=xl24 width=64 >802233</td><td class=xl24 width=64 >19000</td><td class=xl24 width=64 >7106110.5</td></tr><tr><td class=xl24 width=64 >Accounts Payable</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >110993</td><td class=xl24 width=64 >783233</td></tr><tr><td class=xl24 width=64 >Projector</td><td class=xl24 width=64 >2100</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >-110993</td></tr><tr><td class=xl24 width=64 >Computer</td><td class=xl24 width=64 >1950</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >2100</td></tr><tr><td class=xl24 width=64 >Laptop</td><td class=xl24 width=64 >1150</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >1950</td></tr><tr><td class=xl24 width=64 >Chair</td><td class=xl24 width=64 >1000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >1150</td></tr><tr><td class=xl24 width=64 >Table</td><td class=xl24 width=64 >101800</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >1000</td></tr><tr><td class=xl24 width=64 >BookShelf</td><td class=xl24 width=64 >2000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >101800</td></tr><tr><td class=xl24 width=64 >Other Bank Account </td><td class=xl24 width=64 >345555</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >2000</td></tr><tr><td class=xl24 width=64 >STD Bank Account</td><td class=xl24 width=64 >400000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >345555</td></tr><tr><td class=xl24 width=64 >Interest Receivables </td><td class=xl24 width=64 >154000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >400000</td></tr><tr><td class=xl24 width=64 >Salary</td><td class=xl24 width=64 >19993</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >154000</td></tr><tr><td class=xl24 width=64 >Nilufa</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >8675158</td><td class=xl24 width=64 >19993</td></tr><tr><td class=xl24 width=64 >Total</td><td class=xl24 width=64 >9750410.5</td><td class=xl24 width=64 >9596410.5</td><td class=xl24 width=64 >154000</td></tr>

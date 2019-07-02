@@ -1,0 +1,154 @@
+.segment-white-area-inner {
+    padding-top: 105px;
+}
+
+.post {
+    float: left;
+    margin-bottom: 0px !important;
+}
+
+.post-details {
+    padding: 0px 60px 0px 0px;
+    width: 638px;
+    float: left;
+    border-right: 2px solid #ededed;
+}
+
+.post-details h1 {
+    text-transform: uppercase;
+    color: #444444;
+    font: 42px "proxima-nova-extra-condensed-1";
+    margin: 0px 0px 48px;
+    padding: 40px 0px 0px 0px;
+    background: url(../images/blog/post-separator.png) no-repeat top left;
+}
+
+.post:first-child .post-details h1 {
+    padding-top: 0px;
+    background: none;
+}
+
+.post-details h2 {
+    margin: 0px 0px 28px;
+    padding: 0px;
+    font-size: 24px;
+}
+
+.post blockquote {
+    display: block;
+    padding: 40px 38px 62px;
+    font-size: 18px;
+    background-color: #f7f7f7;
+    position: relative;
+    font-style: italic;
+    margin-bottom: 45px;
+    border-left:5px solid #ddd;
+    width:90%;
+}
+
+.post blockquote p {
+    margin: 0px 25px 0px 48px;
+    padding: 0px;
+    line-height: 36px;
+    width:inherit;
+}
+
+.post blockquote:before, .post blockquote:after {
+    color: #cacaca;
+    display: block;
+    font-size: inherit;
+    position: absolute;
+}
+
+.post blockquote:before {
+    content: '\201C' !important;
+    top: 0;
+    left: 20px;
+    width: 40px;
+}
+
+.post blockquote:after {
+    content: '\201D' !important;
+    right: 10px;
+    bottom: 0px;
+    width: 40px;
+    display:none;
+}
+
+.post .social {
+    margin-bottom: 80px;
+    float: left;
+}
+
+.post .read-more {
+    float: right;
+    color: #444444 !important;
+    text-transform: uppercase;
+    font-size: 18px;
+    background: url(../images/blog/read-more-arrow-right.png) no-repeat center right;
+    padding-right: 40px;
+}
+
+.author-details {
+    margin: 40px 0px 0px -23px !important;
+    padding-left: 60px;
+    background: url(../images/blog/blog-arrow.png) no-repeat 0px 75px;
+}
+
+.post:first-child .author-details {
+    margin-top: 0px !important;
+}
+
+.author-details h1 {
+    font-weight: 400;
+    font-size: 22px;
+    margin: 32px 0px 0px;
+    padding: 0px;
+    color: #444444;
+}
+
+.author-details h2 {
+    font-size: 18px;
+}
+
+.more-posts {
+    text-align: center;
+}
+
+.more-posts a {
+    color: #444;
+    text-transform: uppercase;
+    background: url(../images/blog/more-posts-bg.png) no-repeat bottom center;
+    font-size: 36px;
+    font-family: UniversLTStd59UltraCondensed;
+    padding-bottom: 35px;
+    margin-bottom: 60px;
+    display: block;
+}
+
+.pagination {
+    margin-bottom: 80px;
+}
+
+.pagination a {
+    color: #444444;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.pagination a.prev, .pagination a[rel=prev] {
+    background: url(../images/blog/read-more-arrow-left.png) no-repeat center left;
+    padding-left: 40px;
+    float: left;
+}
+
+.pagination a.next,  .pagination a[rel=next]{
+    background: url(../images/blog/read-more-arrow-right.png) no-repeat center right;
+    padding-right: 40px;
+    float: right;
+}
+
+.hidden {
+    display: none;
+}

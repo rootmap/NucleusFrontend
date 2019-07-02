@@ -1,0 +1,38 @@
+#big-area {
+    height: 100px !important;
+    margin-bottom: 0px !important;
+	position: relative;
+}
+
+#big-area .pointer {
+	background: url("../images/sub-pointer.png") no-repeat center bottom;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	width: 24px;
+	height: 13px;
+	display: none;
+}
+
+#menu-company-sub-menu li {
+    display: inline;
+    margin-left: 64px;
+}
+
+#menu-company-sub-menu li:first-child {
+    margin-left: 0px;
+}
+
+#menu-company-sub-menu li a {
+    font: 21px "proxima-nova-1", arial, sans-serif;
+    color: #cdcdcd;
+    line-height: 105px;
+    height: 100px;
+    display: inline-block;
+	font-weight: 200;
+}
+
+#menu-company-sub-menu li a:hover, #menu-company-sub-menu li.current-menu-item a {
+    color: #ffffff;
+    background: url("../images/sub-pointer.png") no-repeat center bottom;
+}

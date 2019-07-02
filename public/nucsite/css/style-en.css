@@ -1,0 +1,197 @@
+/***
+ENGLISH SITE CSS
+NOTES: Use style.css for styles that goes for both english and french site.
+    Place here the css that can only be found on the english site but NOT on the french site. Overrides the same styles found in style.css.
+***/
+
+.icon-entry .info{
+	width:230px;
+	float:left;
+}
+
+#nav ul li a{
+	font-size:14px;
+}
+
+
+
+.page-marketing .overview .whats-new h2{
+	font-size: 30px;
+}
+
+.page-marketing-overview .downloads .download-demo{
+	background: url(../images/download-demo-en.png) no-repeat;
+}
+
+.page-marketing-overview .downloads .learn-more{
+	background: url(../images/learn-more-en.png) no-repeat;
+}
+
+.home .slides .slide-0 .overlay-elements{
+    margin-top: -20px;
+    -webkit-border-radius: 3px; /* Saf3-4, iOS 1-3.2, Android <1.6 */
+    -moz-border-radius: 3px; /* FF1-3.6 */
+    border-radius: 3px; /* Opera 10.5, IE9, Saf5, Chrome, FF4, iOS 4, Android 2.1+ */  
+    /* useful if you don't want a bg color from leaking outside the border: */        
+    -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
+}
+
+.page-marketing-mobile .scan-swipe h2{
+	padding:150px 0 0 0;
+}
+
+.circle-diagram li{
+	filter: Òalpha(opacity=20)Ó;
+	transition: all 0.3s ease 0s;
+}
+.circle-diagram li:hover {
+	opacity: .5;	
+}
+.circle-diagram li.on{
+	filter: Òalpha(opacity=100)Ó;
+}
+
+.circle-diagram li a img {
+}
+
+.circle-diagram li a span {
+	display: block;
+	position: absolute;
+	width: 100%;
+	margin: 0 auto;
+	top: 52px;
+	font-size: 10px;
+}
+
+.circle-diagram li a {
+	color: #FFF;
+	position: relative;
+	width: 84px;
+	height: 85px;
+	display: inline-block;
+}
+
+.post a,
+.post a:visited {
+	color: #0089ff;
+	font-weight: bold;
+}
+
+.single-resellers_blog .post p {
+	margin-bottom: 15px;
+}
+
+.page-events #featured-article h2 {
+	color: #231f20;
+	margin-top: 5px;
+}
+
+.page-events #featured-article h2 img {
+
+	vertical-align: top;
+	margin: 5px 15px 0 0;
+}
+
+.page-events #featured-article ul {
+	margin-left: 30px;
+}
+
+.page-events #featured-article ul li{
+	background:url(../images/content-lists.png) no-repeat left 2px;
+	list-style:outside none;
+	padding-left:18px;
+	line-height:1.25;
+	margin-bottom:20px;
+}
+.page-events #featured-article ul li a{
+	color:#000000;
+	font-weight: 600;
+}
+
+/* @group resellers description */
+#resellers-description div {
+	margin-top: 0;
+}
+
+.page-downloads a.green-button{
+	font-size:16px;
+}
+
+/*** Page ecommerce ***/
+.page-marketing-ecommerce .slideshow .slides {
+	background: url(../images/big.jpg);
+}
+
+/* Multi-store */
+.page-marketing-multi-store .slideshow .slides {
+	background: url(../images/multi-store-en.jpg);
+}
+
+/* Dev api */
+.page-marketing-developer-api .slideshow .slides {
+	background: url(../images/developer-api-en.jpg);
+}
+
+.page-store .ipad-top{
+	display: block;
+	z-index: 100;
+}
+
+.page-store .bundle-slider p{
+	padding:24px 0;
+}
+
+.page-store .license-count,
+.page-store .license-price{
+	font-weight:100;
+}
+
+.page-store .component-box-2 .gray-text{
+	padding: 35px 20px 18px;
+}
+
+/*** Overview Adjustments ***/
+.pad10 { padding-bottom: 10px; }
+.segspace { padding-top: 25px; padding-bottom: 50px; }
+.margtop15 { margin-top: 15px; }
+
+
+/*** Page Cert Dallas ***/
+.page-partners #contentarea ul {
+	margin: 20px;
+}
+
+.page-partners #contentarea ul li {
+	line-height: 2em;
+	margin-bottom: 20px;
+	clear: both;
+}
+
+.page-partners #contentarea ul li img {
+	margin-left: -15px;
+	margin-right: 15px;
+	margin-top: 5px;
+	padding-bottom: 15px;
+	display: block; float: left; 
+}
+
+.page-partners #contentarea a {font-weight: bold; color: #0089FF;}
+
+/*** Page Career Benefits ***/
+.page-career-benefits .container_12{
+	padding-bottom:50px;
+}
+
+.page-career-benefits .kardiologik{
+	margin-left:-10px;
+	width:311px;
+	height:176px;
+	font-size:13px;
+	text-align:center;
+}
+
+.page-career-benefits .tooltip{
+	color:#FFFFFF;
+	font-weight: 400;
+	letter-spacing: 0.08em;
+}

@@ -1,0 +1,942 @@
+body {
+	background-image: none !important;
+}
+
+.pull-right {
+	float: right !important;
+}
+.below-header-clearing {
+	height: 80px;
+	top: 80px;
+}
+.learn-more-button {
+	width: 92%;
+	color: #fff;
+	font-weight: 600;
+	font-size: 18px;
+	background-color: #5792ff;
+	padding: 14px;
+	display: inline-block;
+	text-align: center;
+	border-radius: 26px;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+.learn-more-button:hover {
+	background-color: #3a6fd1;
+}
+h4 {
+	font-size: 22px !important;
+	font-weight: 300 !important;
+}
+h2 {
+	font-weight: 700 !important;
+	font-size: 40px !important;
+	font-weight: 300 !important;
+}
+.medium-p {
+	font-size: 16px;
+	color: #666;
+	line-height: 26px;
+}
+.fonts-front-page {
+	font-family: proxima-nova-extra-condensed-1, proxima-nova-extra-condensed-2, sans-serif;
+}
+.slide-.test-slide-title {
+	font-weight: 500;
+	color: FFFFFF;
+	font-size: 58px;
+	text-transform: uppercase;
+	letter-spacing: -2px;
+	line-height: 46px;
+}
+.button {
+	font-weight: 600;
+	text-shadow: 1px 1px 0 #246e94;
+	width: 91%;
+}
+h3 a {
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+h3 a {
+	font-style: normal;
+	font-size: 20px;
+	font-weight: 500;
+	color: #000;
+}
+h3 a:hover {
+	color: #3a6fd1;
+}
+.description h2 {
+	font-size: 72px !important;
+}
+.topslide {
+	width: 100%;
+	height: 563px;
+}
+
+/* Top Images */
+
+.fitz-top {
+		background: url(../images/bg-top.jpg) no-repeat 55% top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.clusier-top {
+		background: url(../images/bg-top.jpg) no-repeat 30% top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.nutrishop-top {
+background: url(../images/bg-top.png) no-repeat 30% top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+
+
+.leica-top {
+		background: url(../images/bg-top.jpg) no-repeat 30% top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.happy-knits-top {
+		background: url(../images/bg-top.jpg) no-repeat 30% top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.core77-top {
+		background: url(../images/bg-top.jpg) no-repeat 30% top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.cheeky-monkey-top {
+		background: url(../images/bg-top.jpg) no-repeat 30% top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.haveli-top {
+		background: url(../images/bg-top.jpg) no-repeat 30% top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.paisley-road-top {
+		background: url(../images/bg-top.jpg) no-repeat 30% top;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.funkear-top {
+		background: url(../images/bg-top.jpg) no-repeat 30% 50%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.clarence-st-top {
+		background: url(../images/bg-top.jpg) no-repeat 30% 20%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.seedstore-top {
+		background: url(../images/bg-top.jpg) no-repeat 70% 20%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.steed-top {
+		background: url(../images/bg-top.jpg) no-repeat 70% 20%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.hellosunshine-top {
+		background: url(../images/bg-top.jpg) no-repeat 70% 35%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.harney-sons-top {
+		background: url(../images/bg-top.jpg) no-repeat 70% 40%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.perrines-wine-top {
+		background: url(../images/bg-top.jpg) no-repeat 70% 75%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.jean-shop-top {
+		background: url(../images/bg-top.jpg) no-repeat 70% 40%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.joyride-top {
+		background: url(../images/bg-top.jpg) no-repeat 50% 40%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.finnegans-top {
+		background: url(../images/bg-top.jpg) no-repeat 50% 15%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.marine-layer-top {
+		background: url(../images/bg-top.jpg) no-repeat 50% 35%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+
+.danner-top {
+		background: url(../images/bg-top.jpg) no-repeat 50% 45%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.imogene-willie-top {
+		background: url(../images/bg-top.jpg) no-repeat 50% 45%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.general54-top {
+		background: url(../images/bg-top.jpg) no-repeat 50% 45%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.will-leather-top {
+		background: url(../images/bg-top.jpg) no-repeat 50% 55%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+.hound-about-town-top {
+		background: url(../images/bg-top.jpg) no-repeat 50% 55%;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+}
+
+
+.topslide .caption {
+	width: 100% !important;
+	position: relative;
+	z-index: 100;
+	color: #fff !important;
+	top: 200px;
+	text-align: center;
+}
+.topslide .caption h2 {
+	letter-spacing: 1px;
+	color: #fff;
+	font-size: 45px;
+	font-weight: 700 !important;
+	text-transform: uppercase;
+}
+
+
+.topslide .caption .get-started-button {
+	max-width: 185px;
+	font-size: 18px;
+}
+.topslide .caption .p-caption {
+	letter-spacing: 1px;
+	font-weight: 700 !important;
+	text-transform: uppercase;
+	line-height: 32px;
+	font-size: 36px;
+	font-weight: 100;
+	margin: 0 0 40px 0;
+}
+
+.no-watch .caption h2 {
+	padding-top: 30px;
+}
+
+.double .caption h2 {
+	margin-top: -20px;
+}
+
+.no-watch .caption .p-caption {
+}
+
+
+.test-slide {
+	width: 100%;
+	min-height: 500px;
+}
+
+/* Testimonial Images */
+
+.fitz-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% 50%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.clusier-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% 50%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+
+.nutrishop-test {
+	background: url(../images/nutrishop-testimonial-bg_2.jpg) no-repeat 55% 50%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.leica-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% 30%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.happy-knits-test {
+	background: url(../images/bg-test.jpg) no-repeat 25% 30%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 450px;
+}
+
+.cheeky-monkey-test {
+	background: url(../images/bg-test.jpg) no-repeat 25% 30%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 450px;
+}
+
+.funkear-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% 50%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+
+.clarence-st-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.seedstore-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.steed-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.hellosunshine-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.harney-sons-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.perrines-wine-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% top;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.joyride-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% 40%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.finnegans-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% 40%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.marine-layer-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% 60%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.danner-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% 20%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.imogene-willie-test {
+	background: url(../images/bg-test.jpg) no-repeat 55% 30%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.general54-test {
+	background: url(../images/bg-test.jpg) no-repeat 10% 30%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.hound-about-town-test {
+	background: url(../images/bg-test.jpg) no-repeat 10% 30%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+
+/* Full Width Images */
+
+.finnegans-full {
+	background: url(../images/finnegans-full-01.jpg) no-repeat 55% 30%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.marine-layer-full {
+	background: url(../images/marine-layer-full-01.jpg) no-repeat 55% 30%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+.imogene-willie-full {
+	background: url(../images/imogene-willie-full-01.jpg) no-repeat 55% 50%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+
+.will-leather-full {
+	background: url(../images/will-leather-full-01.jpg) no-repeat 55% 30%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 490px;
+}
+
+
+.test-slide .text {
+	position: relative;
+	top: 100px;
+}
+
+.happy-knits-test .text {
+}
+
+.test-slide p.watch {
+	margin-bottom: 50px;
+}
+
+
+.test-slide .watch-video {
+	color: #fff;
+	padding: 10px 30px 10px 25px;
+	font-size: 18px;
+	font-weight: 500;
+	border-radius: 25px;
+	background: url(../images/overview-sprite.png) no-repeat -965px 5px #518eff;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+.test-slide .watch-video:hover {
+	background-color: #3b71d6;
+}
+
+
+.test-slide .text h4.sig {
+	max-width: 390px;
+	border-top: 1px solid #FFF;
+	letter-spacing: .1em;
+	clear: both;
+	padding-top: 25px;
+	font-style: italic;
+	font-size: 15px !important;
+	color: #FFF
+}
+.test-slide .text h4.sig span {
+	display: block;
+	font-weight: 500;
+	font-size: 1.3em
+}
+.test-slide .text p a.signup {
+	margin-bottom: 60px
+}
+.test-slide .text h2 {
+	position: relative;
+	margin-top: .4em;
+	margin-bottom: 1.5em;
+	font-weight: 100;
+	font-size: 32px !important;
+	color: #FFF
+}
+
+.cheeky-monkey-test .text h2 {
+	margin-top: 1.2em;
+}
+
+.test-slide .text h2.smaller {
+	font-size: 28px !important;
+}
+.test-slide .text h2 span {
+	font-size: 3em  !important;
+}
+.test-slide .text h2 span.l_quote {
+	position: absolute;
+	height: 20px;
+	left: -40px;
+	top: -20px
+}
+
+.funkear-test .text h2 span.l_quote, .clarence-st-test .text h2 span.l_quote, .harney-sons-test .text h2 span.l_quote, .steed-test .text h2 span.l_quote {
+	top: 20px
+}
+
+.pull-right h2 span.l_quote {
+	top: 20px !important;
+}
+
+.test-slide .text h2 span.r_quote {
+	position: relative;
+	height: 32px;
+	line-height: 10px;
+	top: 45px;
+	left: 10px;
+	overflow: hidden
+}
+
+.customer-text .bottom-text {
+	padding-top: 50px;
+}
+
+
+/*.below-header-clearing {
+	height: 80px !important;
+}*/
+
+
+.customer-text {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.customer-text h2.top-quote {
+ margin-left: 10px;
+ margin-top: -10px;
+}
+
+.customer-text .grid_6 {
+ max-width: 420px;
+ margin: 0 50px 0 10px;
+}
+
+.customer-text .bottom-text {
+	padding-top: 50px;
+}
+
+.customer-text img {
+	max-width: 100%;
+	height: auto;
+}
+
+.customer-text p {
+	font-size: 16px !important;
+	line-height: 1.8em !important;
+}
+.customer-text h2 {
+	font-size: 30px !important;
+	line-height: 1.5em;
+	margin-bottom:50px;
+	font-weight: 300;
+}
+
+
+.customer-text h3 {
+	font-size: 21px;
+	font-style: normal;
+	margin-bottom:20px;
+	font-weight: 500;
+}
+
+.customer-text p {
+	font-size: 16px;
+	line-height: 25px;
+}
+
+.customer-text p a {
+	font-weight: normal;
+}
+
+.customer-text .quote-box h3 {
+	font-weight: 100;
+	font-size: 24px;
+	line-height: 1.5em;
+}
+
+.customer-text .text-content {
+	margin-bottom: 100px;
+}
+
+.customer-text .image-content {
+	margin-bottom: 50px;
+}
+
+.customer-text .bottom-content {
+	margin-bottom: 0 !important;
+}
+
+.customer-text .image-break {
+	margin-bottom: 50px;
+}
+
+.customer-text .side-image {
+	margin-bottom: 25px;
+}
+
+.customer-text .light-text {
+	color: #888;
+	font-weight: 100;
+	font-style: italic;
+}
+
+/* Customer Index //////////////////////////////// */
+/* topslide */
+.topslide-customer-index {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 480px;
+}
+.topslide-customer-index-random {
+	text-align: center;
+	-webkit-transition: background 0.5s ease;
+	-moz-transition: background 0.5s ease;
+	transition: background 0.5s ease;
+	
+}
+.topslide-customer-index-random img {
+	margin: 75px 0 30px 0;
+}
+.topslide-customer-index-random h2 {
+	color: #fff;
+	font-size: 36px !important;
+	text-transform: uppercase;
+	font-weight: 700 !important;
+	
+}
+.topslide-customer-index-random h3 {
+	color: #fff;
+	font-size: 24px !important;
+	font-weight: 500 !important;
+	font-style: normal;
+	margin-top: 10px;
+	text-transform: uppercase;
+	
+}
+.topslide-customer-index-random:hover {
+	opacity: 0.8;
+}
+/* topslide END */
+
+.customer-tagline {
+	font-size:28px !important; 
+	margin-bottom: 40px !important;
+}
+.customer-thumbnail > img {
+	transition: all 0.3s ease 0s;
+	opacity: 1;
+}
+.customer-thumbnail {
+	position: relative;
+	z-index: 998;
+	text-align: center;
+	background-color: #000;
+	margin-bottom: 20px;
+	height: 200px;
+	
+}
+.customer-thumbnail:hover img {
+	opacity: 0.5;
+}
+.customer-thumbnail:hover .customer-text-index, .customer-thumbnail:hover .customer-play {
+	display: block;
+	opacity: 1;
+}
+.customer-text-index {
+	position: absolute;
+	z-index: 999;
+	color: #fff;
+	padding: 76px 0 0 0;
+	text-align: center;
+	width: 300px;
+	/* display: none; */
+	top: 0;
+}
+.customer-play {
+		display: none;
+	}
+.customer-text-index h3, .customer-text-index h4 {
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-style: normal;
+}
+.customer-text-index h3 {
+	font-size: 24px;
+	letter-spacing: 1px !important;
+	margin-bottom: 8px;
+}
+.customer-text-index h4 {
+	font-size: 16px !important;
+	font-weight: 500 !important;
+	margin-top: 8px;
+	letter-spacing: 1px;
+}
+.customers-line {
+	background-color: #fff;
+	height: 1px;
+	border: 0;
+	width: 80%;
+	margin-left: 10%;
+}
+/* END Customer Index //////////////////////////////// */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*NUTRISHOP  STYLES*/
+
+.shadow{
+   background: none repeat scroll 0 0 rgba(50, 50, 50, 0.5);
+    height: 100%;
+}
+
+
+
+
+
+
+#nutrishop .customer-text h2 {
+    font-size: 29px !important;
+    font-weight: 300;
+    line-height: 1.5em;
+    margin-bottom: 29px;
+}
+
+
+#nutrishop{
+
+
+}
+
+
+
+
+.nutrishop-test h2 , .nutrishop-test h4 {
+ color:#333!important;
+}
+
+
+
+
+.nutrishop-test .text h2 span.l_quote {
+    height: 20px;
+    left: -40px;
+    position: absolute;
+    top: 20px;
+}
+
+.nutrishop-test .text h4.sig {
+    border-top: 1px solid #333;
+}
+
+.nutrishop-test .text {
+    position: relative;
+    top: 67px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

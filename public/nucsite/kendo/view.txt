@@ -1,0 +1,97 @@
+create  or replace view customer_list as
+select 
+id,
+concat(`firstname`,' ',`lastname`) as fullname,
+phone,
+email,
+address1 as address,
+businessname as business
+from coustomer
+
+
+create  or replace view ticket_list as
+select 
+id,
+cid,
+(select fullname from customer_list where customer_list.id=ticket.cid) as fullname,
+(select email from customer_list where customer_list.id=ticket.cid) as email,
+ticket_id,
+uid,
+title,
+(select name from problem_type where problem_type.id=ticket.problem_type) as problem,
+imei,carrier,
+our_cost,
+retail_cost,
+`warrenty` as warrenty,
+date
+from ticket
+
+
+
+create  or replace view unlock_list as
+select 
+id,
+cid,
+(select fullname from customer_list where customer_list.id=unlock_request.cid) as fullname,
+unlock_id,
+uid,
+(select name from unlock_service where unlock_service.id=unlock_request.service_id) as service,
+our_cost,
+retail_cost,
+imei,
+carrier,
+respond_email as email,
+input_by,
+date
+from unlock_request
+
+
+
+create  or replace view `checkin_list` AS select 
+`checkin_request`.`id` AS `id`,
+`checkin_request`.`checkin_id` AS `checkin_id`,
+(select `price` from `check_user_price` where (`check_user_price`.`ckeckin_id` = `checkin_request`.`checkin_id`)) AS `retail_cost`,
+concat(`checkin_request`.`first_name`,' ',`checkin_request`.`last_name`) AS `fullname`,
+`checkin_request`.`email` AS `email`,
+`checkin_request`.`phone` AS `phone`,
+(select `checkin`.`name` from `checkin` where (`checkin`.`id` = `checkin_request`.`device_id`)) AS `device`,
+(select `checkin_version`.`name` from `checkin_version` where (`checkin_version`.`id` = `checkin_request`.`model_id`)) AS `model`,
+(select `checkin_version_color`.`name` from `checkin_version_color` where (`checkin_version_color`.`id` = `checkin_request`.`color_id`)) AS `color`,
+(select `checkin_network`.`name` from `checkin_network` where (`checkin_network`.`id` = `checkin_request`.`network_id`)) AS `network`,
+(select `checkin_problem`.`name` from `checkin_problem` where (`checkin_problem`.`id` = `checkin_request`.`problem_id`)) AS `problem`,`warrenty` as warrenty,
+(select `imei` from `checkin_request_ticket` where (`checkin_request_ticket`.`checkin_id` = `checkin_request`.`checkin_id`)) AS `imei`,
+(select `checkin_request_ticket`.`lcdstatus` from `checkin_request_ticket` where (`checkin_request_ticket`.`checkin_id` = `checkin_request`.`checkin_id`)) AS `lcdstatus`,
+`checkin_request`.`date` AS `date`,
+`checkin_request`.`input_by` AS `input_by`,
+`checkin_request`.`status` AS `status` from `checkin_request`
+
+
+CREATE or replace VIEW `product_report` AS select `id` AS `id`,`barcode` AS `barcode`,`name` AS `name`,`price_cost` AS `ourcost`,`price_retail` AS `retailcost`,`product`.`reorder` AS `reorder`,`quantity` AS `quantity`,(select sum(`sales`.`quantity`) from `sales` where (`sales`.`pid` = `product`.`id`)) AS `soldquantity` from `product` WHERE status='1';
+
+
+create  or replace view cashier_list as
+select 
+id,
+store_id,
+name,
+username,
+password,
+email,
+phone,
+date,
+status
+from store WHERE status='3'
+
+create  or replace view manager_list as
+select 
+id,
+store_id,
+name,
+username,
+password,
+email,
+phone,
+date,
+status
+from store WHERE status='4'
+

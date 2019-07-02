@@ -1,0 +1,285 @@
+[27-Dec-2014 08:39:59 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 08:39:59 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 10:40:20 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[27-Dec-2014 08:43:36 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 08:43:36 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 08:46:19 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[27-Dec-2014 08:46:37 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 08:46:37 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 08:47:51 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[27-Dec-2014 09:24:17 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 09:24:17 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 11:28:28 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 43
+[27-Dec-2014 11:28:28 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[27-Dec-2014 11:29:09 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 11:39:20 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[27-Dec-2014 11:39:20 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[27-Dec-2014 10:13:27 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 10:13:27 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 12:17:45 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[27-Dec-2014 12:17:46 America/New_York] PHP Notice:  Undefined variable: fields in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 12:17:46 America/New_York] PHP Notice:  Trying to get property of non-object in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 12:20:01 America/New_York] PHP Notice:  Undefined variable: conditions in /home2/wirelev6/public_html/nucleuspos/create_buyback.php on line 57
+[27-Dec-2014 12:29:23 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 10:42:48 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[27-Dec-2014 10:43:10 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 10:43:10 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 09:48:46 America/Los_Angeles] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/wirelev6/public_html/nucleuspos/pdf/MPDF57/classes/cssmgr.php on line 1278
+[27-Dec-2014 09:50:06 America/Los_Angeles] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/wirelev6/public_html/nucleuspos/pdf/MPDF57/classes/cssmgr.php on line 1278
+[27-Dec-2014 10:52:29 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 10:52:29 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 09:55:06 America/Los_Angeles] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/wirelev6/public_html/nucleuspos/pdf/MPDF57/classes/cssmgr.php on line 1278
+[27-Dec-2014 09:56:49 America/Los_Angeles] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[27-Dec-2014 09:56:57 America/Los_Angeles] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[27-Dec-2014 09:57:28 America/Los_Angeles] PHP Notice:  Undefined variable: logval in /home2/wirelev6/public_html/nucleuspos/pos.php on line 42
+[27-Dec-2014 09:57:45 America/Los_Angeles] PHP Notice:  Undefined variable: logval in /home2/wirelev6/public_html/nucleuspos/pos.php on line 42
+[27-Dec-2014 13:13:36 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[27-Dec-2014 13:13:36 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[27-Dec-2014 13:14:30 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 13:31:33 America/New_York] PHP Notice:  Undefined variable: conditions in /home2/wirelev6/public_html/nucleuspos/create_buyback.php on line 57
+[27-Dec-2014 13:42:47 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 43
+[27-Dec-2014 13:42:47 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[27-Dec-2014 13:43:13 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 13:53:22 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 14:05:27 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/create_ticket.php on line 48
+[27-Dec-2014 14:05:27 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/create_ticket.php on line 57
+[27-Dec-2014 14:10:14 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 14:10:24 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[27-Dec-2014 14:10:24 America/New_York] PHP Notice:  Undefined variable: fields in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 14:10:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 14:10:49 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 12:21:46 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 12:21:46 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 14:21:58 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[27-Dec-2014 14:21:58 America/New_York] PHP Notice:  Undefined variable: fields in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 14:21:58 America/New_York] PHP Notice:  Trying to get property of non-object in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 14:22:36 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 14:30:56 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[27-Dec-2014 14:30:56 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[27-Dec-2014 14:52:03 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/create_ticket.php on line 48
+[27-Dec-2014 14:52:16 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[27-Dec-2014 14:52:36 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 15:28:21 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 15:42:29 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[27-Dec-2014 15:42:29 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[27-Dec-2014 13:42:36 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 13:42:36 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 15:42:55 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 15:45:15 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[27-Dec-2014 15:46:50 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[27-Dec-2014 15:49:32 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[27-Dec-2014 15:53:25 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[27-Dec-2014 15:53:25 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[27-Dec-2014 14:23:14 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[27-Dec-2014 14:23:21 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 14:23:21 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 16:35:55 America/New_York] PHP Notice:  Undefined variable: conditions in /home2/wirelev6/public_html/nucleuspos/create_buyback.php on line 57
+[27-Dec-2014 16:42:05 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 43
+[27-Dec-2014 16:42:05 America/New_York] PHP Notice:  Undefined variable: fields in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 16:42:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 16:42:05 America/New_York] PHP Notice:  Undefined variable: fields in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 16:42:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 16:42:42 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 17:29:20 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 43
+[27-Dec-2014 17:29:20 America/New_York] PHP Notice:  Undefined variable: fields in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 17:29:20 America/New_York] PHP Notice:  Trying to get property of non-object in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[27-Dec-2014 17:30:04 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 17:57:18 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 43
+[27-Dec-2014 17:57:18 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[27-Dec-2014 17:57:45 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[27-Dec-2014 16:43:50 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 16:43:50 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 17:28:46 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[27-Dec-2014 17:28:54 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 17:28:54 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 17:30:25 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[27-Dec-2014 17:30:31 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 17:30:31 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 17:31:23 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[27-Dec-2014 17:33:03 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 17:33:03 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 17:33:16 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[27-Dec-2014 17:33:23 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 17:33:23 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[27-Dec-2014 17:33:30 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[28-Dec-2014 08:59:38 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[28-Dec-2014 08:59:43 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 08:59:43 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 11:28:14 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[28-Dec-2014 12:03:00 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[28-Dec-2014 12:03:21 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[28-Dec-2014 12:03:42 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[28-Dec-2014 12:11:51 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 43
+[28-Dec-2014 12:11:51 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[28-Dec-2014 12:12:43 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[28-Dec-2014 13:52:45 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[28-Dec-2014 13:52:45 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[28-Dec-2014 13:53:32 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[28-Dec-2014 15:42:43 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/create_ticket.php on line 48
+[28-Dec-2014 15:42:43 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/create_ticket.php on line 57
+[28-Dec-2014 15:43:20 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[28-Dec-2014 15:44:12 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[28-Dec-2014 15:49:32 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[28-Dec-2014 15:49:32 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[28-Dec-2014 15:50:18 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[28-Dec-2014 16:01:55 America/New_York] PHP Notice:  Undefined variable: conditions in /home2/wirelev6/public_html/nucleuspos/create_buyback.php on line 57
+[28-Dec-2014 16:16:24 America/New_York] PHP Notice:  Undefined variable: work_approved in /home2/wirelev6/public_html/nucleuspos/create_ticket.php on line 44
+[28-Dec-2014 16:16:24 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/create_ticket.php on line 48
+[28-Dec-2014 16:16:24 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/create_ticket.php on line 57
+[28-Dec-2014 16:17:21 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[28-Dec-2014 16:20:28 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[28-Dec-2014 16:20:28 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[28-Dec-2014 16:21:00 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[28-Dec-2014 16:27:57 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[28-Dec-2014 16:27:57 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[28-Dec-2014 16:28:24 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[28-Dec-2014 14:50:36 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 14:50:36 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 14:57:18 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[28-Dec-2014 14:57:27 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 14:57:27 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:59:17 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[28-Dec-2014 15:00:38 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[28-Dec-2014 15:00:45 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 15:00:45 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 15:02:11 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[28-Dec-2014 17:05:33 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[28-Dec-2014 15:12:37 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[28-Dec-2014 15:12:49 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 15:12:49 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 15:16:57 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[28-Dec-2014 15:17:02 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 15:17:02 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:39:20 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:39:20 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:43:58 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[28-Dec-2014 16:45:18 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:45:18 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:45:46 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[28-Dec-2014 16:45:52 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:45:52 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:46:25 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[28-Dec-2014 16:47:16 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:47:16 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:47:25 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[28-Dec-2014 16:47:29 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:47:29 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[28-Dec-2014 16:47:37 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[29-Dec-2014 08:07:55 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 08:07:55 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 09:20:49 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[29-Dec-2014 09:20:57 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 09:20:57 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 11:28:14 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 43
+[29-Dec-2014 11:28:14 America/New_York] PHP Notice:  Undefined variable: fields in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[29-Dec-2014 11:28:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[29-Dec-2014 11:28:14 America/New_York] PHP Notice:  Undefined variable: fields in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[29-Dec-2014 11:28:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home2/wirelev6/public_html/nucleuspos/view_checkin.php on line 281
+[29-Dec-2014 11:31:09 America/New_York] PHP Notice:  Undefined index: checkin_id in /home2/wirelev6/public_html/nucleuspos/pos.php on line 544
+[29-Dec-2014 10:27:50 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:27:50 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:31:12 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[29-Dec-2014 10:31:19 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:31:19 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:41:25 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[29-Dec-2014 10:41:33 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:41:33 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:41:49 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[29-Dec-2014 10:43:49 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:43:49 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:44:06 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[29-Dec-2014 10:44:16 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:44:16 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:44:43 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[29-Dec-2014 10:44:48 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:44:48 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:44:57 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[29-Dec-2014 10:45:04 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:45:04 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:45:27 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:45:27 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:52:15 America/Denver] PHP Notice:  Undefined index: SESS_AMSIT_EMP_STATUS in /home2/wirelev6/public_html/nucleuspos/logout.php on line 6
+[29-Dec-2014 10:52:20 America/Denver] PHP Notice:  Undefined index: timezone in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 10:52:20 America/Denver] PHP Notice:  date_default_timezone_set(): Timezone ID '' is invalid in /home2/wirelev6/public_html/nucleuspos/class/auth.php on line 87
+[29-Dec-2014 13:12:29 America/New_York] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home2/wirelev6/public_html/nucleuspos/ticket_list.php on line 353
+[29-Dec-2014 13:23:17 America/New_York] PHP Notice:  Undefined variable: ever_been in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 26
+[29-Dec-2014 13:23:17 America/New_York] PHP Notice:  Undefined index: custom in /home2/wirelev6/public_html/nucleuspos/finish_checkin.php on line 53
+[04-Sep-2015 20:53:17 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:53:17 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:53:19 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 34
+[04-Sep-2015 20:54:07 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:54:07 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:54:09 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 34
+[04-Sep-2015 20:55:07 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:55:07 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:55:09 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 34
+[04-Sep-2015 20:56:07 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:56:07 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:56:09 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 34
+[04-Sep-2015 20:57:07 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:57:07 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:57:09 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 34
+[04-Sep-2015 20:58:08 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:58:08 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:58:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 34
+[04-Sep-2015 20:59:08 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:59:08 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 20:59:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 34
+[04-Sep-2015 21:00:08 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:00:08 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:00:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 34
+[04-Sep-2015 21:01:08 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:01:08 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:01:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 34
+[04-Sep-2015 21:02:08 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:02:08 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:02:11 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 35
+[04-Sep-2015 21:03:08 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:03:08 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:03:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 35
+[04-Sep-2015 21:04:07 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:04:07 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:04:09 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 35
+[04-Sep-2015 21:05:11 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:05:11 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:05:13 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 35
+[04-Sep-2015 21:06:14 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:06:14 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 235
+[04-Sep-2015 21:06:17 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 35
+[04-Sep-2015 21:07:09 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 238
+[04-Sep-2015 21:07:09 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 238
+[04-Sep-2015 21:07:11 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 35
+[04-Sep-2015 21:08:07 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 238
+[04-Sep-2015 21:08:07 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 238
+[04-Sep-2015 21:08:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 35
+[04-Sep-2015 21:09:08 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 238
+[04-Sep-2015 21:09:08 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/class/mysql_backup_import.php on line 238
+[04-Sep-2015 21:09:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 35
+[04-Sep-2015 21:10:02 UTC] PHP Fatal error:  Call to undefined function backup_database() in /home/nucleuspos/public_html/nucleus/backup_db.php on line 8
+[04-Sep-2015 21:11:08 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/backup_db.php on line 138
+[04-Sep-2015 21:11:08 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/backup_db.php on line 138
+[04-Sep-2015 21:11:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 233
+[04-Sep-2015 21:12:08 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/backup_db.php on line 138
+[04-Sep-2015 21:12:08 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/backup_db.php on line 138
+[04-Sep-2015 21:12:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 233
+[04-Sep-2015 21:13:07 UTC] PHP Warning:  mysql_get_server_info(): Access denied for user ''@'localhost' (using password: NO) in /home/nucleuspos/public_html/nucleus/backup_db.php on line 138
+[04-Sep-2015 21:13:07 UTC] PHP Warning:  mysql_get_server_info(): A link to the server could not be established in /home/nucleuspos/public_html/nucleus/backup_db.php on line 138
+[04-Sep-2015 21:13:09 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 233
+[04-Sep-2015 21:14:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 233
+[04-Sep-2015 21:15:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 233
+[04-Sep-2015 21:16:11 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 233
+[04-Sep-2015 21:17:11 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 233
+[04-Sep-2015 21:18:09 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 233
+[04-Sep-2015 21:19:09 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 233
+[04-Sep-2015 21:20:13 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 36
+[04-Sep-2015 21:21:16 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 36
+[04-Sep-2015 21:22:22 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 36
+[04-Sep-2015 21:23:10 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 36
+[04-Sep-2015 21:24:09 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 36
+[04-Sep-2015 21:25:09 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/nucleuspos/public_html/nucleus/backup_db.php on line 36
+[28-Sep-2016 12:52:59 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home/nucleuspos/public_html/kendo/lib/save-signature.php:18
+Stack trace:
+#0 /home/nucleuspos/public_html/kendo/lib/save-signature.php(18): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/nucleuspos/public_html/kendo/view_checkin.php(828): require_once('/home/nucleuspo...')
+#2 {main}
+  thrown in /home/nucleuspos/public_html/kendo/lib/save-signature.php on line 18

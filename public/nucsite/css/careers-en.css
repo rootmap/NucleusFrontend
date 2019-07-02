@@ -1,0 +1,446 @@
+.segment-white-area-inner {
+	padding: 30px 0px;
+}
+
+#were-hiring {
+	margin: 0px 0px 60px;
+}
+
+.badge-txt {
+	font-size: 15px;
+	line-height: 28px;
+}
+
+.reasons {
+	background: url(../images/reason-bg.png) no-repeat top center;
+	padding: 65px 0px;
+	margin: 52px 0px 0px;
+}
+
+.reasons h1 {
+	color: #444444;
+	font-size: 24px;
+	padding: 0;
+	margin: 0px 0px 10px;
+	font-weight: normal;
+}
+
+.reasons p {
+	font-size: 14px;
+	font-style: italic;
+}
+
+@font-face {
+    font-family: 'UniversLTStd49LightUltraCnRg';
+    src: url('fonts/universltstd-lightultracn-webfont.eot');
+    src: url('fonts/universltstd-lightultracn-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/universltstd-lightultracn-webfont.woff') format('woff'),
+         url('fonts/universltstd-lightultracn-webfont.ttf') format('truetype'),
+         url('fonts/universltstd-lightultracn-webfont.svg#UniversLTStd49LightUltraCnRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+.reasons .grid_3:first-child h1 {
+	font-size: 86px;
+	font-family: UniversLTStd49LightUltraCnRg;
+	text-transform: uppercase;
+	line-height: 74px;
+	margin: 0;
+}
+
+.reasons .grid_3:first-child p {
+	font-family: proxima-nova-extra-condensed-1;
+	font-size: 25px;
+	font-style: normal;
+	text-transform: uppercase;
+}
+
+#positions, #maps {
+	background: #fbfdff url(../images/positions-bg.png) repeat-x top center;
+	padding: 75px 0px 0px;
+	min-height: 650px;
+}
+
+#positions h1 {
+	margin: 0px 0px 65px;
+	padding: 0;
+	font-size: 24px;
+	color: #000000;
+	font-weight: normal;
+}
+
+#positions h1 a {
+	color: #0090ff;
+}
+
+.segment-green-area-bottom {
+	background: #fbfdff url(../images/hr-green-bottom.png) repeat-x top center;
+	min-height: 4px;
+}
+
+#team {
+	background-color: #ffffff;
+	padding: 65px 0px;
+}
+
+#team p:first-child {
+	font-size: 20px;
+}
+
+#team p.txt-right {
+	font-size: 15px;
+	font-style: italic;
+	color: #999999;
+}
+
+#perks {
+	background: #ffffff url(../images/perks-bg.png) no-repeat center 22px;
+	padding: 0px 0px 64px;
+}
+
+#perks h1 {
+	font-family: UniversLTThinUltraCondensed;
+	font-size: 48px;
+	text-align: center;
+	color: #444444;
+	font-weight: normal;
+	text-transform: uppercase;
+	margin: 0px 20px 52px;
+	padding: 0;
+	letter-spacing: 1px;
+}
+
+#perks .grid_3 {
+	margin-bottom: 35px;
+	text-align: center;
+	min-height: 187px;
+}
+
+#perks .desc h1 {
+	font-size: 24px;
+	font-family: Source Sans Pro;
+	margin: 0px 0px 28px;
+	padding: 0;
+	text-transform: capitalize;
+}
+
+#perks .desc {
+	display: none;
+}
+
+#perks .desc p {
+	font-size: 14px;
+	line-height: 22px;
+}
+
+#maps .grid_4 h1 {
+	font-size: 32px;
+	color: #444444;
+	font-weight: normal;
+	padding: 0;
+	margin-bottom: 30px;
+}
+
+#maps .grid_4 p {
+	font-size: 17px;
+}
+
+#maps .grid_6 {
+	margin-top: 54px;
+}
+
+#maps .grid_6 h2 {
+	font-size: 22px;
+	font-weight: normal;
+}
+
+#maps .grid_6 p {
+	font-size: 15px;
+	font-style: italic;
+	margin-top: 32px;
+}
+
+#maps .image-slide {
+	width: 300px;
+	height: 298px;
+}
+
+#maps .image-slide .slides_container {
+	height: 298px;
+}
+
+#maps .image-slide img {
+	border: #b5b7b8 1px solid;
+}
+
+#recruiter {
+	background: #ffffff url(../images/recruiter-bg.png) no-repeat top center;
+	padding-bottom: 100px;
+}
+
+#recruiter .grid_9 h1 {
+	padding-left: 250px;
+	font-size: 34px;
+	color: #000000;
+}
+
+#recruiter .grid_3 {
+	margin-top: 46px;
+}
+
+#recruiter .grid_2 p {
+	font-size: 18px;
+	color: #444444;
+}
+
+#recruiter .recruiter-form {
+	margin-top: 100px;
+	display: none;
+}
+
+#recruiter .recruiter-form .grid_5 p {
+	font-size: 18px;
+	line-height: 26px;
+}
+
+#recruiter .recruiter-form .grid_5 {
+	padding-left: 70px;
+}
+
+#recruiter label {
+	font-size: 16px;
+	display: block;
+	margin-bottom: 5px;
+}
+
+#recruiter div.textbox {
+	width: 364px;
+	height: 43px;
+	background: url(../images/field.png) no-repeat;
+}
+
+#recruiter div.small div.textbox {
+	width: 172px;
+	height: 43px;
+	background: url(../images/small-field.png) no-repeat;
+}
+
+#recruiter div.textbox input {
+	display: block;
+	width: 325px;
+	height: 43px;
+	width: 320px;
+	padding: 0 25px 0px 10px;
+	background: none;
+	border: 0;
+	color: #231F20;
+	font-size: 16px;
+}
+
+#recruiter div.small {
+	margin-right: 18px;
+}
+
+#recruiter div.small div.textbox input {
+	width: 152px;
+}
+
+#recruiter div.textbox input.watermark {
+	color: #B1B0B0;
+}
+
+#recruiter div.textbox input.person {
+	background: url(../images/person.png) no-repeat right center;
+}
+
+#recruiter div.textbox input.telephone {
+	background: url(../images/telephone.png) no-repeat right center;
+}
+
+#recruiter div.textbox input.email {
+	background: url(../images/email.png) no-repeat right center;
+}
+
+#recruiter .select-box {
+	font-size: 16px;
+	color: #231F20;
+}
+
+#recruiter .select-box .esb-displayer {
+	width: 343px;
+	height: 43px;
+	padding: 0 10px;
+	line-height: 43px;
+	background: url(../../images/company/contact/selectbox.jpg) no-repeat;
+}
+
+#recruiter div.small .select-box .esb-displayer {
+	width: 152px;
+	background: url(../images/small-select-field.png) no-repeat;
+	cursor: default;
+}
+
+#recruiter .select-box .esb-dropdown {
+	margin-top: -2px;
+	background: #ffffff;
+	border: 1px solid #C8C9CA;
+	-moz-border-radius: 0 0 3px 3px;
+	-webkit-border-radius: 0 0 3px 3px;
+	border-radius: 0 0 3px 3px;
+}
+
+#recruiter .select-box .esb-item {
+	padding:5px 10px;
+	cursor: default;
+}
+
+#recruiter .select-box .esb-item:hover {
+	background:#3399ff;
+	color:#fff;
+}
+
+#recruiter .submit {
+	margin-top: 20px;
+}
+
+#were-hiring {
+	margin: 25px 0px 60px 0px;
+}
+
+#perks h1 {
+	font-family: UniversLTThinUltraCondensed;
+	font-size: 48px;
+	text-align: center;
+	color: #444444;
+	font-weight: normal;
+	text-transform: uppercase;
+	margin: 0px 20px 52px;
+	padding: 0;
+	letter-spacing: 1px;
+}
+
+.reasons .grid_3:first-child p {
+	font-family: proxima-nova-extra-condensed-1;
+	font-size: 25px;
+	font-style: normal;
+	text-transform: uppercase;
+	margin:0 30px;
+	line-height: 24px;
+	padding-top: 3px;
+}
+
+.reasons p {
+	font-size: 14px;
+	font-style: italic;
+	margin: 0 18px 0 7px;
+	line-height: 22px;
+}
+
+.reasons h1 {
+	color: #444;
+	font-size: 24px;
+	padding: 0;
+	margin: 0px 0px 10px 7px;
+	font-weight: normal;
+}
+
+#team p:first-child {
+	font-size: 20px;
+	line-height: 29px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+#positions p {
+	font-size: 20px;
+	line-height: 29px;
+	padding-bottom: 28px;
+	text-align: center;
+}
+
+#perks .desc h1 {
+	font-size: 24px;
+	font-family: Source Sans Pro;
+	padding-bottom: 18px;
+	font-weight: 300;
+	text-transform: capitalize;
+	margin: 0px 0px 0px;
+}
+
+#recruiter .grid_9 h1 {
+	padding-left: 250px;
+	font-size: 30px;
+	color: black;
+	padding-top: 51px;
+}
+
+#recruiter .grid_3 {
+	margin-top: 59px;
+}
+
+#maps p.txt-right {
+	font-size: 15px;
+	font-style: italic;
+	color: #999999;
+	padding-top: 15px;
+	padding-right: 5px;
+	margin-bottom: 0px;
+}
+
+#maps .grid_4 h1 {
+	font-size: 32px;
+	color: black;
+	font-weight: 300;
+	padding: 0;
+	margin-bottom: 24px;
+}
+
+#maps .grid_6 h2 {
+	font-size: 20px;
+	font-weight: normal;
+	padding-bottom:16px;
+}
+
+#maps .grid_4 p {
+	font-size: 15px;
+	line-height:25px;
+	padding-right: 5px;
+}
+
+#maps .grid_6 p {
+	font-size: 15px;
+	font-style: italic;
+	margin-top: 17px;
+	line-height: 25px;
+}
+
+#maps .mtl {
+	margin-right:10px;
+}
+
+#maps .ott {
+	margin-right:0px;
+	float: right;
+}
+
+#team img {
+	margin-bottom:3px;
+}
+
+#team p{
+	padding: 0 auto 15px;
+}
+
+div.back-to-top {
+	padding-top: 110px;
+}
+
+.wpcf7-mail-sent-ok {
+	display: none !important;
+}
+
+.thanks {
+	text-align: center;
+	color: #000000;
+}
+div.wpcf7-validation-errors {clear: both; padding: 10px; width: 50%; float: right;}

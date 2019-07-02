@@ -1,0 +1,106 @@
+/*** Page Company Events ***/
+.page-company-events{
+	background:none;
+}
+
+.page-company-events #content{
+	padding-top:60px;
+	padding-bottom:60px;
+	position: relative;
+}
+.page-company-events .event-action-bar{
+	margin-bottom:80px;
+}
+
+.page-company-events h2.sep{
+	margin-bottom:80px;
+	margin-top:100px;
+}
+.page-company-events .event-action-bar h2{
+	float:left;
+	text-transform: uppercase;
+	color: #444;
+	font: 42px "Source Sans Pro";
+	margin: 0px 0px 48px;
+}
+.page-company-events .event-action-bar .browse-by{
+	float:right;
+	font-size:12px;
+	text-transform:uppercase;
+}
+.page-company-events .event-action-bar label{
+	color:#8c8c8c;
+	margin-right:17px;
+	line-height:33px;
+	float:right;
+}
+.page-company-events .event-action-bar select{
+	width:130px;
+	height:33px;
+	display:none;
+}
+.page-company-events .event-action-bar .rss{
+	float:right;
+	margin-left:10px;
+	margin-top: 10px;
+	display:block;
+	text-indent:-99999px;
+	font-size:0;
+	line-height:0;
+	border:0;
+	cursor:pointer;
+	width:56px;
+	height:33px;
+	background: url(../../images/company/events/btn-rss.jpg) no-repeat;
+}
+.page-company-events .event-month-box, .page-company-news .news-month-box{
+	float:right;
+	position:relative;
+	width:182px;
+	height:33px;
+}
+.page-company-events .event-month-box img, .page-company-news .news-month-box img{
+	position:absolute;
+	right:0;
+	top:0;
+}
+.page-company-events .event-month-replacement, .page-company-news .news-month-replacement{
+	background: url(../../images/company/events/event-month-right.jpg) no-repeat right;
+	padding-right:31px;
+}
+.page-company-events .month_picker, .page-company-news .month_picker{
+	border:0;
+	display:block;
+	padding:0 15px;
+	height:33px;
+	line-height:30px;
+	color:#fff;
+	background: url(../../images/company/events/event-month-left.jpg) no-repeat;
+}
+
+.event-tooltip {
+	background: url(../../images/company/events/tooltip-event.png) no-repeat top left;
+	position: absolute;
+	width: 212px;
+	height: 48px;
+}
+
+.event-tooltip.spotlight {
+	background: url(../../images/company/events/tooltip-spotlight.png) no-repeat top left;
+	position: absolute;
+	width: 178px;
+	height: 40px;
+}
+
+.event-tooltip h1 {
+	color: #ffffff;
+	font: 22px "Source Sans Pro";
+	text-transform: uppercase;
+	margin: 0;
+	padding: 14px 0 0;
+	text-align: center;
+}
+
+.event-tooltip.spotlight h1 {
+	padding: 8px 0 0;
+}

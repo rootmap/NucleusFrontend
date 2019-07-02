@@ -1,0 +1,13 @@
+[29-Mar-2015 02:15:55 America/Denver] PHP Notice:  Undefined variable: obj in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/footer.php on line 7
+[29-Mar-2015 02:15:55 America/Denver] PHP Fatal error:  Call to a member function close_con() on a non-object in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/footer.php on line 7
+[29-Mar-2015 02:15:55 America/Denver] PHP Warning:  include(../auth.php): failed to open stream: No such file or directory in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/adds.php on line 2
+[29-Mar-2015 02:15:55 America/Denver] PHP Warning:  include(): Failed opening '../auth.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/adds.php on line 2
+[29-Mar-2015 02:15:55 America/Denver] PHP Fatal error:  Call to undefined function cleanQuery() in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/adds.php on line 5
+[29-Mar-2015 02:15:55 America/Denver] PHP Notice:  Undefined variable: errmsg_arr in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/auth.php on line 11
+[29-Mar-2015 02:15:56 America/Denver] PHP Notice:  Undefined variable: status in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/nav_ace.php on line 1
+[29-Mar-2015 02:15:56 America/Denver] PHP Notice:  Undefined variable: page in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/header.php on line 53
+[29-Mar-2015 02:15:56 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/db_Class.php on line 11
+[29-Mar-2015 02:15:56 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/db_Class.php on line 11
+[29-Mar-2015 02:15:56 America/Denver] PHP Notice:  Undefined variable: status in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/mainmenu.php on line 1
+[29-Mar-2015 02:15:57 America/Denver] PHP Notice:  Undefined variable: errmsg_arr in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/auth.php on line 11
+[29-Mar-2015 02:15:57 America/Denver] PHP Notice:  Undefined variable: status in /home2/wirelev6/public_html/nucleuspos/nucleus/admin/class/nav_ace.php on line 1

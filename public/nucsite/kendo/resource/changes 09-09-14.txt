@@ -1,0 +1,18 @@
+Report Changes:
+1. there needs to be a report for all cash, and all credit collected for each day. 
+2. there needs to be a report for all cash, and all credit colleceted, but you can choose how long time period is.
+3. there needs to be profit report for each day, which takes part cost, and part retial and makes profit report.
+4. there needs to be profit report same as #3 but were you can choose how long time period is that you want report for
+5. there needs to be report for each employees sale, so I can see who is selling more.
+6. there needs to be report for tickets, to see how much profit is made. By taking price cost and price retail.
+7. there needs to be report for check in, to see how much profit is made. By taking price cost and price retail.
+8. there needs to be report for which products are more popular, by sales which one sells more.
+9. there needs to be inventory report were I can pull up inventory of all product and make sure none is missing.
+10. there need to be report for each product so i can view how many sales its product get.
+please leave all other reporting features that are already on system. 
+
+POS Changes: 
+I have already explained to you on phone, but if you have questions call me.
+
+Tax Settings:
+1. there should be an option to choose "Tax Enable" or "Tax Disable" which will be default for all sales unless changed maually via POS

@@ -1,0 +1,11 @@
+<?php 
+	extract($_POST);
+	if($logval==2)
+	{
+            $obj_pos->cashier_login_process_to_logout($username,$password);
+	}
+	else
+	{
+		$obj_pos->cashier_login_process($username,$password);
+	}
+?>
