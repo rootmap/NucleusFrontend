@@ -1,0 +1,6 @@
+[14-Aug-2019 19:15:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/simpleretailpos/storage/framework/views/c6932fa0b611c51582a0d1315e92d2c676e8e50f.php on line 1
+[14-Aug-2019 19:18:14 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/simpleretailpos/storage/framework/views/c6932fa0b611c51582a0d1315e92d2c676e8e50f.php on line 573
+[13-Sep-2019 13:46:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/simpleretailpos/app/Http/Controllers/SiteSettingController.php on line 32
+[14-Sep-2019 00:10:48 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/simpleretailpos/storage/framework/views/c6932fa0b611c51582a0d1315e92d2c676e8e50f.php on line 710
+[14-Sep-2019 00:16:20 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/simpleretailpos/storage/framework/views/c6932fa0b611c51582a0d1315e92d2c676e8e50f.php on line 729
+[23-Jan-2020 22:42:57 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/simpleretailpos/app/Http/Controllers/SignupController.php on line 315
